@@ -25,6 +25,36 @@ build/
 .env.test.local
 .env.production.local
 
+# Django specific
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+db.sqlite3
+db.sqlite3-journal
+local_settings.py
+media/
+static/
+staticfiles/
+
+# Python specific
+*.egg
+*.egg-info/
+.installed.cfg
+*.manifest
+*.spec
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+venv/
+.venv/
+ENV/
+env/
+
 # Editor directories and files
 .idea/
 .vscode/
