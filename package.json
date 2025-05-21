@@ -1,0 +1,19 @@
+{
+	"name": "converse-lingo",
+	"version": "1.0.0",
+	"description": "Web-app that helps to learn languages through conversational practice with AI",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/dimariabovol/converse-lingo.git"
+	},
+	"author": "Dmytro Riabovol",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/dimariabovol/converse-lingo/issues"
+	},
+	"homepage": "https://github.com/dimariabovol/converse-lingo#readme"
+}
