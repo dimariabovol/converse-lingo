@@ -1,7 +1,6 @@
 # Project-specific files to ignore
 PRD.md
 TODO.md
-.windsurfrules
 
 # Logs
 logs
@@ -66,3 +65,11 @@ env/
 
 # OS specific
 .DS_Store
+
+# Added by Claude Task Master
+dev-debug.log
+.idea
+.vscode
+# Task files
+tasks.json
+tasks/ 
